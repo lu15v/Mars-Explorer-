@@ -15,7 +15,8 @@ You must have installed Lua and Love2d in order to run the program.
 
 Execute the program with the following command:
 
-```love name_of_the_renamed_folder.lua
+```
+love name_of_the_renamed_folder.lua
 ```
 
 Have fun :+1:
