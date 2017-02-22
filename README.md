@@ -13,7 +13,8 @@ rename the folder (directory) where you cloned the repository as some_name_you_w
 
 You must have installed Lua and Love2d in order to run the program.
 
-Execute the program with love name_of_the_renamed_folder.lua
+Execute the program with the following command:
+  love name_of_the_renamed_folder.lua
 
 
 have fun
